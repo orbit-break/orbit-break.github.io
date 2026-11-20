@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>Ice — frozen ocean and polar shelves</title>
+  <defs><clipPath id="surface"><circle cx="256" cy="256" r="184"/></clipPath></defs>
+  <circle cx="256" cy="256" r="188" fill="#24546C" stroke="#B5EEFF" stroke-width="8"/>
+  <g clip-path="url(#surface)" stroke-linecap="round" stroke-linejoin="round">
+
+    <path d="M51 85 H462 L445 157 L395 171 L365 156 L328 185 L289 169 L252 193 L207 172 L169 188 L130 164 L85 180Z" fill="#C0DFE5"/>
+    <path d="M64 113 Q232 159 445 120 L439 143 Q239 185 75 143Z" fill="#ECF8F6"/>
+    <path d="M89 233 Q118 203 148 218 L169 252 L209 270 L197 303 L151 313 L127 289 L99 282Z" fill="#91BECD"/>
+    <path d="M318 216 L356 195 L396 220 L420 261 L393 289 L356 270 L338 245Z" fill="#6DA0B6"/>
+    <path d="M72 389 L127 365 L168 378 L213 354 L259 379 L310 361 L347 384 L395 368 L449 396 V460 H64Z" fill="#B4D6DE"/>
+    <path d="M177 108 L202 133 L197 157 L221 178 M352 106 L328 131 L340 151 L319 174 M167 395 L199 386 L218 406 L256 401" fill="none" stroke="#6599B0" stroke-width="4"/>
+
+<path d="M326 55 C444 194 415 346 264 449 L468 466 L475 53Z" fill="#101827" opacity=".24"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>Crumbling — eroded fractured crust</title>
+  <defs><clipPath id="surface"><circle cx="256" cy="256" r="184"/></clipPath></defs>
+  <circle cx="256" cy="256" r="188" fill="#51424A" stroke="#D7AB96" stroke-width="8"/>
+  <g clip-path="url(#surface)" stroke-linecap="round" stroke-linejoin="round">
+
+    <path d="M55 143 Q136 87 196 130 L219 168 L198 221 L144 240 L116 295 L56 281Z" fill="#927464"/>
+    <path d="M258 76 L372 107 L439 192 L396 224 L338 209 L309 243 L262 211 L245 157Z" fill="#80625D"/>
+    <path d="M130 320 L187 289 L230 305 L270 286 L322 325 L305 382 L341 439 H174 L113 390Z" fill="#8F7066"/>
+    <path d="M219 81 L228 132 L216 165 L240 201 L224 243 L254 278 L245 317 L267 348 L254 396 L278 444 M240 201 L287 194 L314 213 L352 204 L380 233 L438 228 M224 243 L182 251 L156 281 L109 273 L71 289 M254 278 L302 272 L326 291 L373 284 L405 311" fill="none" stroke="#302C3B" stroke-width="12"/>
+    <path d="M215 84 L222 131 L210 165 M248 281 L239 317 L260 349 M289 201 L314 220 L352 211" fill="none" stroke="#BE9680" stroke-width="4"/>
+    <ellipse cx="151" cy="181" rx="33" ry="24" fill="#665053"/>
+    <path d="M122 183 Q144 149 180 171" fill="none" stroke="#B28D78" stroke-width="6"/>
+    <ellipse cx="345" cy="354" rx="23" ry="18" fill="#483B45"/>
+<path d="M326 55 C444 194 415 346 264 449 L468 466 L475 53Z" fill="#101827" opacity=".24"/>
+  </g>
+</svg>

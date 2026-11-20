@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs><clipPath id="surface"><circle cx="256" cy="256" r="185"/></clipPath></defs>
+  <!-- Same circular body bounds as the approved normal planet. -->
+  <circle cx="256" cy="256" r="188" fill="#482C3A" stroke="#FF626A" stroke-width="8"/>
+  <g clip-path="url(#surface)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M78 181 Q195 84 348 133 Q440 164 431 269 Q393 213 317 229 Q229 251 191 203 Q143 178 78 230Z" fill="#884651"/>
+    <path d="M73 291 Q151 251 225 304 Q305 365 431 303 L429 366 Q297 423 205 358 Q133 310 88 347Z" fill="#693545"/>
+    <path d="M94 170 Q199 93 309 121" fill="none" stroke="#FFC9B6" stroke-width="9"/>
+    <path d="M104 224 Q152 196 197 219 M264 245 Q320 225 377 249" fill="none" stroke="#FF626A" stroke-width="5"/>
+    <!-- Fissures distinguish heat even without hue discrimination. -->
+    <path d="M235 79 L216 149 L253 196 L229 258 L270 312 L251 372 L273 435 M253 196 L322 181 L352 216 M229 258 L170 272 L148 309 M270 312 L325 323 L344 375" fill="none" stroke="#482C3A" stroke-width="18"/>
+    <path d="M235 79 L216 149 L253 196 L229 258 L270 312 L251 372 L273 435 M253 196 L322 181 L352 216 M229 258 L170 272 L148 309 M270 312 L325 323 L344 375" fill="none" stroke="#FFB454" stroke-width="6"/>
+    <circle cx="343" cy="157" r="13" fill="#482C3A" stroke="#FF626A" stroke-width="4"/>
+  </g>
+</svg>

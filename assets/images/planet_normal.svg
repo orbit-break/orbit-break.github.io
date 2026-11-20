@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs><clipPath id="surface"><circle cx="256" cy="256" r="185"/></clipPath></defs>
+  <!-- Exact circular body silhouette; orbit and capture fields are not baked in. -->
+  <circle cx="256" cy="256" r="188" fill="#163E52" stroke="#41D6DD" stroke-width="8"/>
+  <g clip-path="url(#surface)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M78 181 Q195 84 348 133 Q440 164 431 269 Q393 213 317 229 Q229 251 191 203 Q143 178 78 230Z" fill="#27788A"/>
+    <path d="M73 291 Q151 251 225 304 Q305 365 431 303 L429 366 Q297 423 205 358 Q133 310 88 347Z" fill="#226075"/>
+    <path d="M94 170 Q199 93 309 121" fill="none" stroke="#A4F5EE" stroke-width="9"/>
+    <path d="M104 224 Q152 196 197 219 M264 245 Q320 225 377 249" fill="none" stroke="#41D6DD" stroke-width="5"/>
+    <path d="M152 333 Q181 343 203 358 M291 380 Q351 390 394 361" fill="none" stroke="#38929C" stroke-width="5"/>
+    <circle cx="343" cy="170" r="16" fill="#163E52" stroke="#38929C" stroke-width="4"/>
+    <circle cx="145" cy="270" r="10" fill="#163E52"/>
+  </g>
+</svg>

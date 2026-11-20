@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>Pulsar — auroral cloud world</title>
+  <defs><clipPath id="surface"><circle cx="256" cy="256" r="184"/></clipPath></defs>
+  <circle cx="256" cy="256" r="188" fill="#184A4C" stroke="#69E8C1" stroke-width="8"/>
+  <g clip-path="url(#surface)" stroke-linecap="round" stroke-linejoin="round">
+
+    <path d="M52 159 Q158 97 262 162 T464 163 L469 215 Q352 260 256 203 T52 217Z" fill="#377C71"/>
+    <path d="M54 292 Q168 240 266 299 T465 293 L470 345 Q348 405 248 343 T51 351Z" fill="#2D6B64"/>
+    <path d="M91 126 Q158 155 217 139 T352 142 Q408 159 430 189 M83 146 Q156 180 220 160 T353 164 Q397 178 420 204" fill="none" stroke="#9DF6CE" stroke-width="7"/>
+    <path d="M83 335 Q159 378 231 354 T365 359 Q405 373 423 396 M94 355 Q164 400 235 377 T362 381" fill="none" stroke="#65CFA8" stroke-width="6"/>
+    <path d="M165 237 C190 210 235 217 234 239 C232 262 192 268 180 251 C171 239 195 233 207 239" fill="none" stroke="#5AA38D" stroke-width="8"/>
+<path d="M326 55 C444 194 415 346 264 449 L468 466 L475 53Z" fill="#101827" opacity=".24"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>Binary component — tidal ocean and land</title>
+  <defs><clipPath id="surface"><circle cx="256" cy="256" r="184"/></clipPath></defs>
+  <circle cx="256" cy="256" r="188" fill="#343858" stroke="#C6ADF5" stroke-width="8"/>
+  <g clip-path="url(#surface)" stroke-linecap="round" stroke-linejoin="round">
+
+    <path d="M77 130 Q130 93 185 116 L209 145 L195 171 L233 185 L244 221 L210 246 L173 238 L154 270 L117 261 L102 224 L69 210Z" fill="#8C7FA2"/>
+    <path d="M278 295 L319 261 L349 274 L373 252 L414 266 L449 308 L425 352 L388 363 L364 403 L325 418 L298 382 L308 346Z" fill="#746789"/>
+    <path d="M63 196 Q113 168 152 187 T257 176 Q313 157 375 188 T459 181 M58 218 Q109 190 151 208 T259 198" fill="none" stroke="#B9ACD8" stroke-width="9"/>
+    <path d="M65 324 Q139 288 210 327 T348 329 Q402 307 456 330 M87 349 Q145 320 208 350 T340 353" fill="none" stroke="#998CB7" stroke-width="7"/>
+    <path d="M118 125 Q162 109 185 132 M331 308 L351 295 L375 308" fill="none" stroke="#B3A1C4" stroke-width="5"/>
+<path d="M326 55 C444 194 415 346 264 449 L468 466 L475 53Z" fill="#101827" opacity=".24"/>
+  </g>
+</svg>

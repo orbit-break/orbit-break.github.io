@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <g stroke-linejoin="round" stroke-linecap="round">
+    <!-- Up-facing hull; engine effects remain procedural and separate. -->
+    <path d="M256 64 Q266 64 274 83 L387 363 Q396 385 375 389 L302 374 L282 429 Q256 466 230 429 L210 374 L137 389 Q116 385 125 363 L238 83 Q246 64 256 64Z" fill="#FFB454" stroke="#FFE5BB" stroke-width="8"/>
+    <path d="M256 100 L256 372 M143 366 L210 338 M369 366 L302 338" fill="none" stroke="#C2753F" stroke-width="6"/>
+    <path d="M256 151 Q291 199 291 244 Q256 267 221 244 Q221 199 256 151Z" fill="#101827" stroke="#FFE5BB" stroke-width="6"/>
+    <path d="M256 169 Q277 202 278 230 Q256 242 234 230 Q235 202 256 169Z" fill="#41D6DD"/>
+    <path d="M243 208 L252 184" fill="none" stroke="#D9FFFF" stroke-width="5"/>
+    <path d="M234 391 L278 391 L272 423 Q256 435 240 423Z" fill="#101827"/>
+    <path d="M242 419 L270 419" fill="none" stroke="#41D6DD" stroke-width="7"/>
+  </g>
+</svg>

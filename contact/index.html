@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101827">
+  <title>Contact &amp; support · OrbitBreak</title>
+  <meta name="description" content="Send an OrbitBreak bug report, suggest a feature, or get in touch with the developer.">
+  <link rel="canonical" href="https://orbit-break.github.io/contact/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Contact &amp; support">
+  <meta property="og:description" content="Send an OrbitBreak bug report, suggest a feature, or get in touch with the developer.">
+  <meta property="og:url" content="https://orbit-break.github.io/contact/">
+  <meta property="og:image" content="https://orbit-break.github.io/assets/images/app_icon.png">
+  <meta name="twitter:card" content="summary">
+  <link rel="icon" type="image/svg+xml" href="/assets/images/app_icon.svg">
+  <link rel="apple-touch-icon" href="/assets/images/app_icon.png">
+  <link rel="stylesheet" href="/assets/css/site.css">
+  <script src="/assets/js/site.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header shell">
+    <a class="brand" href="/" aria-label="OrbitBreak home"><img src="/assets/images/ship_comet.svg" width="36" height="36" alt=""><span>ORBIT<span class="brand-light">BREAK</span></span></a>
+    <nav aria-label="Main navigation">
+      <a href="/" >The game</a>
+      <a href="/planets/" >Planets</a>
+      <a href="/contact/" aria-current="page">Contact</a>
+      <a href="/privacy/" >Privacy policy</a>
+      <a class="nav-pill" href="/#availability">Coming to mobile</a>
+    </nav>
+  </header>
+  <main id="main"><section class="shell contact-page section-space">
+  <div class="contact-intro"><p class="eyebrow">Open a channel</p><h1>Let’s make the<br>next orbit better.</h1><p>A feature you’d love? A bug that sent you drifting? Tell us what’s on your mind.</p><div class="contact-aside"><h2>Reporting a bug?</h2><p>Your device, operating system, game version, and steps to reproduce it help us find the problem.</p><p>Please leave out passwords and other sensitive information.</p></div><p class="direct-contact">Prefer a direct message?<br><a href="mailto:orbitbreakgame@gmail.com">orbitbreakgame@gmail.com</a></p></div>
+  <div class="form-panel">
+    <form id="contact-form" data-recipient="orbitbreakgame@gmail.com">
+      <div class="form-row"><div><label for="name">Name <span>(optional)</span></label><input id="name" name="name" autocomplete="name" maxlength="100"></div><div><label for="email">Your email <span>(optional)</span></label><input id="email" name="email" type="email" autocomplete="email" maxlength="254"></div></div>
+      <label for="topic">What brings you here?</label><select id="topic" name="topic"><option>General question</option><option>Feature request</option><option>Bug report</option><option>Privacy request</option></select>
+      <div class="form-row"><div><label for="platform">Platform</label><select id="platform" name="platform"><option>Not applicable</option><option>iOS</option><option>Android</option></select></div><div><label for="version">Game version <span>(optional)</span></label><input id="version" name="version" placeholder="e.g. 1.0.0" maxlength="60"></div></div>
+      <label for="subject">Subject <span>(required)</span></label><input id="subject" name="subject" required maxlength="150" placeholder="Give your message a short title">
+      <label for="message">Your message <span>(required)</span></label><textarea id="message" name="message" required rows="7" maxlength="4000" placeholder="Tell us a little more…" aria-describedby="message-help"></textarea>
+      <p id="message-help" class="form-help">For bugs, include your device, OS version, what happened, and what you expected.</p>
+      <p class="form-help">This form prepares a draft in your email app. Review it and press Send there. Nothing is submitted by this website. See our <a href="/privacy/">privacy policy</a>.</p>
+      <button class="button" type="submit">Prepare email</button>
+      <p id="form-status" role="status" class="form-help"></p>
+      <div id="email-fallback" hidden><p class="form-help">If your email app didn’t open, copy your message and email <a href="mailto:orbitbreakgame@gmail.com">orbitbreakgame@gmail.com</a>.</p><button class="button button-outline" id="copy-message" type="button">Copy message</button><textarea id="email-draft" aria-label="Prepared email to copy" readonly rows="8"></textarea></div>
+      <noscript><p class="form-help">To send a message, email <a href="mailto:orbitbreakgame@gmail.com">orbitbreakgame@gmail.com</a>. Preparing a draft from this form requires JavaScript.</p></noscript>
+    </form>
+  </div>
+</section>
+</main>
+  <footer class="site-footer shell">
+    <div><a class="footer-brand" href="/">ORBITBREAK</a><p>One small ship. A universe to escape.</p></div>
+    <nav aria-label="Footer navigation"><a href="/planets/">Planet catalog</a><a href="/contact/">Contact & support</a><a href="/privacy/">Privacy policy</a></nav>
+    <small>© 2026 OrbitBreak</small>
+  </footer>
+</body>
+</html>

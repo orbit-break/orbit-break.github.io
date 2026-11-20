@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>Resonance — rippling gas giant</title>
+  <defs><clipPath id="surface"><circle cx="256" cy="256" r="184"/></clipPath></defs>
+  <circle cx="256" cy="256" r="188" fill="#34324F" stroke="#A9B8FF" stroke-width="8"/>
+  <g clip-path="url(#surface)" stroke-linecap="round" stroke-linejoin="round">
+
+    <path d="M50 129 Q151 189 241 133 T470 156 L470 198 Q346 139 249 190 T50 180Z" fill="#77729F"/>
+    <path d="M50 220 Q150 277 239 219 T470 238 L470 282 Q345 221 248 280 T50 266Z" fill="#595878"/>
+    <path d="M45 317 Q164 370 245 315 T470 333 L470 376 Q337 320 244 375 T45 359Z" fill="#77729F"/>
+    <path d="M62 166 Q166 213 249 164 T456 184 M62 253 Q166 304 246 252 T456 269 M83 352 Q177 397 253 347 T440 364" fill="none" stroke="#B2ACD3" stroke-width="5"/>
+    <path d="M278 217 C305 185 366 191 372 217 C381 248 319 261 303 241 C290 225 324 212 342 224" fill="none" stroke="#D4CFF1" stroke-width="7"/>
+    <path d="M127 312 Q152 284 184 299 Q206 312 183 326 Q161 338 149 320" fill="none" stroke="#9891BB" stroke-width="6"/>
+<path d="M326 55 C444 194 415 346 264 449 L468 466 L475 53Z" fill="#101827" opacity=".24"/>
+  </g>
+</svg>

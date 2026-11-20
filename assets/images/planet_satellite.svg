@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>Satellite host — ancient cratered highlands</title>
+  <defs><clipPath id="surface"><circle cx="256" cy="256" r="184"/></clipPath></defs>
+  <circle cx="256" cy="256" r="188" fill="#344858" stroke="#B8CDDF" stroke-width="8"/>
+  <g clip-path="url(#surface)" stroke-linecap="round" stroke-linejoin="round">
+
+    <path d="M63 167 Q128 94 207 134 L246 179 L210 223 L155 233 L129 283 L65 258Z" fill="#728B98"/>
+    <path d="M230 292 Q280 247 330 275 L359 315 L411 327 L438 390 L350 441 L281 400Z" fill="#586E7C"/>
+    <path d="M78 330 Q151 278 197 312 L229 373 L193 419 L109 396Z" fill="#465C6C"/>
+    <ellipse cx="191" cy="194" rx="48" ry="38" fill="#2B3E50"/>
+    <path d="M146 199 C139 160 206 137 234 181" fill="none" stroke="#A0B6C0" stroke-width="8"/>
+    <path d="M161 198 Q184 168 215 187" fill="none" stroke="#5D7787" stroke-width="8"/>
+    <ellipse cx="328" cy="329" rx="34" ry="28" fill="#304252"/>
+    <path d="M297 333 Q291 301 322 299 Q346 298 358 320" fill="none" stroke="#91A5AE" stroke-width="6"/>
+    <ellipse cx="131" cy="306" rx="19" ry="25" fill="#2B3E50"/>
+    <path d="M115 313 Q108 284 130 281" fill="none" stroke="#839BA8" stroke-width="5"/>
+    <ellipse cx="341" cy="156" rx="23" ry="14" fill="#293E50"/>
+    <path d="M320 157 Q334 134 360 150" fill="none" stroke="#7D96A7" stroke-width="5"/>
+<path d="M326 55 C444 194 415 346 264 449 L468 466 L475 53Z" fill="#101827" opacity=".24"/>
+  </g>
+</svg>
